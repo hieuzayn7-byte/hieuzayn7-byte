@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=1000&pause=1000&color=F7D94E&background=8FFF4200&multiline=true&repeat=false&width=1300&height=7000&lines=M%C3%ACnh+l%C3%A0+%C4%90%E1%BB%97+Minh+Hi%E1%BA%BFu;Hi%E1%BB%87n+%C4%91ang+l%C3%A0+sinh+vi%C3%AAn+theo+h%E1%BB%8Dc+ng%C3%A0nh+s%C6%B0+ph%E1%BA%A1m+%C3%A2m+nh%E1%BA%A1c+tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+s%C6%B0+ph%E1%BA%A1m+ngh%E1%BB%87+thu%E1%BA%ADt+Trung+%C6%AF%C6%A1ng" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3500&color=F7D94E&background=8FFF4200&multiline=true&repeat=false&width=1300&height=7000&lines=M%C3%ACnh+l%C3%A0+%C4%90%E1%BB%97+Minh+Hi%E1%BA%BFu;Hi%E1%BB%87n+%C4%91ang+l%C3%A0+sinh+vi%C3%AAn+theo+h%E1%BB%8Dc+ng%C3%A0nh+S%C6%B0+ph%E1%BA%A1m+%C3%82m+Nh%E1%BA%A1c+tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+S%C6%B0+Ph%E1%BA%A1m+Ngh%E1%BB%87+Thu%E1%BA%ADt+Trung+%C6%AF%C6%A1ng" alt="Typing SVG" /></a>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 <br><br>
